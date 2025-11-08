@@ -1,0 +1,13 @@
+id,name,description,photo
+f01,Library,"Central library with textbooks, journals and e-resources",library.jpg
+f02,Computer Lab,"Multiple computer labs with high-speed internet",lab_cse.jpg
+f03,Electronics Lab,"ECE lab with training equipment and oscilloscopes",lab_ece.jpg
+f04,Mechanical Workshop,"Mechanical workshop for practicals and projects",lab_mechanical.jpg
+f05,Civil Laboratory,"Civil lab for surveying and materials testing",lab_civil.jpg
+f06,Information Science and Engineering,"ISE lab for system optimization and problem-solving",lab_ise.jpg
+f07,Bachelor of Computer Applicationas,"BCA lab for programming skills development",lab_bca.jpg
+f08,Master of Computer Applications Lab,"Labs for power systems and circuits",lab_mca.jpg
+f09,Canteen,"Clean hygienic canteen with affordable food",canteen.jpg
+f10,Hostel,"On-campus hostel for boys and girls",hostel.jpg
+f11,Playground,"Open playground for sports and events",playground.jpg
+f12,Transport,"College buses for nearby routes",transport.jpg

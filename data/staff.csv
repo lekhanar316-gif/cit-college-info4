@@ -1,0 +1,58 @@
+id,name,designation,department,photo
+1,Dr. Srikantappa A.S,Principal,Administration,principal.jpg
+2,Mr. Ramesh Gowda,Secretary,Administration,secretary.jpg
+3,Prof. Rakshitha,Assistant Professor & HOD,Computer Science and Engineering,staff1.jpg
+4,Prof. Akshatha T.M,Assistant Professor,Computer Science and Engineering,staff2.jpg
+5,Prof. Sachith B.K,Assistant Professor,Computer Science and Engineering,staff3.jpg
+6,Prof. Shruthi T.M,Assistant Professor,Computer Science and Engineering,staff4.jpg
+7,Prof. Radhika K.P,Assistant Professor,Computer Science and Engineering,staff5.jpg
+8,Prof. Amulya K.S,Assistant Professor,Computer Science and Engineering,staff6.jpg
+4,Prof. Rajini K.C,Assistant Professor,Computer Science and Engineering,staff7.jpg
+4,Prof. Chandana M.G,Assistant Professor,Computer Science and Engineering,staff8.jpg
+4,Prof. Ankitha C.S,Assistant Professor,Computer Science and Engineering,staff9.jpg
+4,Prof. Harshitha C,Assistant Professor,Computer Science and Engineering,staff10.jpg
+4,Prof. Chaithra N.T,Assistant Professor,Computer Science and Engineering,staff11.jpg
+4,Prof. Spoorthi B.J,Assistant Professor,Computer Science and Engineering,staff12.jpg
+4,Prof. Sahana G.C,Assistant Professor,Computer Science and Engineering,staff13.jpg
+5,Dr. Savitha A.P,Professor & HOD,Electronics and Communication Engineering,staff14.jpg
+6,Prof. Hanchinal C.S,Assistant Professor,Electronics and Communication Engineering,staff15.jpg
+6,Prof. Anitha H.C,Assistant Professor,Electronics and Communication Engineering,staff16.jpg
+6,Prof. Mahesha C.K,Assistant Professor,Electronics and Communication Engineering,staff17.jpg
+6,Prof. Sowjanya N.B,Assistant Professor,Electronics and Communication Engineering,staff18.jpg
+6,Prof. Kirana U.N,Assistant Professor,Electronics and Communication Engineering,staff19.jpg
+6,Prof. Lakshmi P.M,Assistant Professor,Electronics and Communication Engineering,staff20.jpg
+6,Prof. Tejaswini H.S,Assistant Professor,Electronics and Communication Engineering,staff21.jpg
+6,Prof. Uma S.K,Assistant Professor & HOD,Information Science and Engineering,staff22.jpg
+7,prof. Vinod P.N,Associate Professor & HOD,Civil Engineering,staff23.jpg
+7,Dr .Chandrashekar C.K,Associate Professor,Civil Engineering,staff.24.jpg
+7,Prof .Sathisha R,Assistant Professor,Civil Engineering,staff.25.jpg
+7,Prof .Shilpa Rani D.P,Assistant Professor,Civil Engineering,staff.26.jpg
+7,Prof .Chiranth H.R,Assistant Professor,Civil Engineering,staff.27.jpg
+7,Prof .Rachana M.N,Assistant Professor,Civil Engineering,staff.28.jpg
+7,Prof .Likitha R P,Assistant Professor,Civil Engineering,staff.29.jpg
+7,Prof .Priya B.S,Assistant Professor,Civil Engineering,staff.30.jpg
+7,Prof .Arpitha A,Assistant Professor,Civil Engineering,staff.31.jpg
+7,Prof .Jeevitha K.N,Assistant Professor,Civil Engineering,staff.32.jpg
+8,Dr. Vinaykumar M.J,Associate Professor & HOD,Mechanical Engineering,staff33.jpg
+9,Dr. C.M Shivakumar,Associate Professor,Mechanical Engineering,staff34.jpg
+9,Prof. Mohankumar S.R,Assistant Professor,Mechanical Engineering,staff35.jpg
+9,Prof. Chaithra T.C,Assistant Professor,Mechanical Engineering,staff36.jpg
+9,Prof. Amos R,Associate Professor & HOD,Master of Computer Applications,staff37.jpg
+9,Prof. Chandrashekar H.N,Associate ,Master of Computer Applications,staff38.jpg
+9,Prof. Sachin G.A,Assistant Professor,Master of Computer Applications,staff39.jpg
+9,Prof. Bhavani U.N,Assistant Professor,Master of Computer Applications,staff40.jpg
+9,Prof. Apoorva M.S,Assistant Professor,Master of Computer Applications,staff41.jpg
+9,Prof. Bhaskar K.S,Assistant Professor,Master of Computer Applications,staff42.jpg
+9,Dr. B.P Siddaraju,Professor,Department of Chemistry,staff43.jpg
+9,Prof. M.V Shwetha,Assistant Professor,Department of Chemistry,staff44.jpg
+9,Prof. Ashwini C,Assistant Professor & HOD,Department of Physics,staff45.jpg
+9,Prof. Sharath M.N,Assistant Professor,Department of Physics,staff46.jpg
+9,Prof. Shruthi S,Assistant Professor & HOD,Department of Mathematics,staff47.jpg
+9,Prof. Jyothsna N,Assistant Professor,Department of Mathematics,staff48.jpg
+9,Prof. Sindhu M.N,Assistant Professor,Department of Mathematics,staff49.jpg
+9,Prof. Mahadeva,Assistant Professor & HOD,Department of Kannada,staff50.jpg
+9,Prof. K.J Sharath Babu,Assistant Professor & HOD,Department of English,staff51.jpg
+9,Prof. Manjunath K.V,Assistant Professor,Department of English,staff52.jpg
+10,Mr. Arun V,Assistant Professor,Mechatronics,staff8.jpg
+11,Ms. Shweta P,Lecturer,Management,staff9.jpg
+12,Mr. Vinod K,Lab Instructor,Computer Science,staff10.jpg

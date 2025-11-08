@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Industrial Visits</h2>
+<div class="visits-grid">
+  {% for v in visits %}
+    <div class="visit-card">
+      <img src="{{ url_for('static', filename=v.photo) }}" alt="{{ v.company }}">
+      <h4>{{ v.company }} <span class="muted">({{ v.department }})</span></h4>
+      <p>{{ v.place }} • {{ v.year }}</p>
+    </div>
+  {% endfor %}
+</div>
+{% endblock %}

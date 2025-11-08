@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>{{ college.name }}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <header class="navbar">
+    <div class="nav-inner container">
+      <div class="brand">
+        <img src="{{ url_for('static', filename='images/logo.png') }}" alt="logo" class="nav-logo">
+        <div class="brand-text">
+          <div class="college-name">{{ college.name }}</div>
+          <div class="college-sub">{{ college.address }}</div>
+        </div>
+      </div>
+      <nav class="nav-links">
+        <a href="{{ url_for('index') }}">Home</a>
+        <a href="{{ url_for('college_info') }}">About</a>
+        <a href="{{ url_for('facilities_page') }}">Facilities</a>
+        <a href="{{ url_for('companies_page') }}">Companies</a>
+        <a href="{{ url_for('workshops') }}">Workshops</a>
+        <a href="{{ url_for('staff_index') }}">Staff</a>
+        <a href="{{ url_for('gallery') }}">Gallery</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer class="footer container">
+    <div>{{ college.name }} • Contact: {{ college.phone }} • {{ college.email }}</div>
+  </footer>
+</body>
+</html>

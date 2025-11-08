@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Gallery - Cultural Activities</h2>
+<div class="gallery-grid">
+  {% for i in range(1,6) %}
+    <img src="{{ url_for('static', filename='images/gallery/cultural' ~ i ~ '.jpg') }}" alt="Cultural {{ i }}">
+  {% endfor %}
+</div>
+
+<h3>Event Video</h3>
+<video controls width="800">
+  <source src="{{ url_for('static', filename='videos/cultural_event.mp4') }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+{% endblock %}

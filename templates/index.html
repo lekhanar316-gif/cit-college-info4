@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="hero" style="background-image: url('{{ url_for('static', filename='images/college_banner.jpg') }}')">
+  <div class="hero-glass">
+    <h1>Welcome to {{ college.name }}</h1>
+    <p>{{ college.vision }}</p>
+    <div class="hero-buttons">
+      <a class="btn" href="{{ url_for('college_info') }}">College Info</a>
+      <a class="btn outline" href="{{ url_for('staff_index') }}">Staff</a>
+      <a class="btn outline" href="{{ url_for('facilities_page') }}">Facilities</a>
+    </div>
+  </div>
+  <div class="qr-card">
+    <h4>Scan to open college info</h4>
+    <img src="{{ url_for('static', filename='images/qr/college_qr.png') }}" alt="QR" class="qr-img">
+    <p class="muted">Scan this QR with your phone camera</p>
+  </div>
+</section>
+{% endblock %}
